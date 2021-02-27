@@ -5,7 +5,7 @@
 ### My recent blog posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/1" alt="Recent Article 1">
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/2" alt="Recent Article 2">
 
 <!--
 **Shefali321/Shefali321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
