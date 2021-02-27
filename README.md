@@ -2,6 +2,8 @@
 
 [![Shefali's github stats](https://github-readme-stats.vercel.app/api?username=Shefali321&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali321)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My recent blog posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sshefali021/1" alt="Recent Article 1">
