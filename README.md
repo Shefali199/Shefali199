@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 thanks for stopping by. I am a CSE student who has a passion for learning 
 
 <!--
 **Shefali321/Shefali321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
