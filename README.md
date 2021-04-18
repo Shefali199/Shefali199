@@ -1,9 +1,8 @@
 # Shefali Sharma
 --- 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/sharma-shefali/"
+  <a href="https://www.linkedin.com/sharma-shefali/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
 
 --- 
 ### Hi there 👋 thanks for stopping by. I am a CSE student who has a passion for learning.
