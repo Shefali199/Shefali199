@@ -1,10 +1,5 @@
 # Shefali Sharma
---- 
-  <a href="https://www.linkedin.com/sharma-shefali/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp;
 
---- 
 ### Hi there 👋 thanks for stopping by. I am a CSE student who has a passion for learning.
 
 [![Shefali's github stats](https://github-readme-stats.vercel.app/api?username=Shefali321&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
