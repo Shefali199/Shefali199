@@ -7,6 +7,7 @@
 - Web Appllication Development
 - API Development
 - Artificial Intelligence
+- Linux Administration
 - Cloud Computing
 - DevOps and Automation
  
