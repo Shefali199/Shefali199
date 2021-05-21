@@ -4,13 +4,8 @@
 ![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 ## Skills 
-- Web Appllication Development
-- API Development
-- Artificial Intelligence
-- Linux System Administration
-- Cloud Computing
-- DevOps and Automation
- 
+#### Web Application Development ★ API Development ★ Artificial Intelligence ★ Linux System Administration ★ Cloud Computing ★ DevOps and Automation 
+
 ## My Tech Stack 🧰
 |Technology| Software|
 |-|-|
