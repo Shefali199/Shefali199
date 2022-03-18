@@ -14,7 +14,7 @@
 |Container Engine| ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Podman](https://img.shields.io/badge/-Podman-black?style=flat-square&logo=podman)|
 |Cloud Computing| ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=red%20hat%20open%20shift&logoColor=ffffff) ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=ffffff)|
 |Automation| ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell) ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform)|
-## My GitHub Stats 
+## My GitHub Stats 📊
 [![Shefali's github stats](https://github-readme-stats.vercel.app/api?username=Shefali321&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My recent blog posts 🔆
