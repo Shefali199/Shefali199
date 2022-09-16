@@ -15,10 +15,10 @@ I'm a CSE student who has a passion for learning and exploring new domains.
 |Cloud Computing| ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=red%20hat%20open%20shift&logoColor=ffffff) ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=ffffff)|
 |Automation| ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell) ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform)|
 ## My GitHub Stats 📊 
-<a align="center" href="https://github.com/Shefali199">
-<p align="center">
+<a href="https://github.com/Shefali199">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=Shefali199&show_icons=true&theme=radical" alt="My Github Stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali199&layout=compact&theme=radical" alt="Languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali199&layout=compact&theme=radical" alt="Languages" width="420">
 </p>
 </a>
 
