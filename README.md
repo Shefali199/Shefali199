@@ -18,7 +18,7 @@ I'm a CSE student who has a passion for learning and exploring new domains.
 <a href="https://github.com/Shefali199">
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Shefali199&show_icons=true&theme=radical" alt="My Github Stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali199&layout=compact&theme=radical" alt="Languages" width="420">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali199&layout=compact&theme=radical" alt="Languages" width="390">
 </p>
 </a>
 
