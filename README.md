@@ -1,7 +1,7 @@
 # Hi, I'm Shefali 👩🏻‍💻
 - 🔭 I'm a CSE student who has a passion for learning and exploring new domains.
 - 🌱 Currently I'm learning about Linux kernel and Systems Programming.
-- 👯 I'm always open to Research Opportunities in Computer Science.
+- 👯 I'm always open to research opportunities in Computer Science.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm still a Philatelist.
 
