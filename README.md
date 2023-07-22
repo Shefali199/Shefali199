@@ -3,7 +3,6 @@
 - 🌱 Currently I'm learning about Linux kernel and Systems Programming.
 - 👯 I'm always open to research opportunities in Computer Science.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm still a Philatelist.
 
 ![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
